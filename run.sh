@@ -7,6 +7,7 @@ pip install -r requirements.txt
 cd code
 echo 'Training the model...'
 jupyter nbconvert --to python train.ipynb
+python train.py
 cd ..
 echo 'Starting API...'
 python code/api.gyp

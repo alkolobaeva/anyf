@@ -13,7 +13,7 @@ brew install python3
 brew cask install anaconda
 ```
 
-Data needs to be added to data repo as csv file.
+Data needs to be added to data folder as csv file.
 
 ### Installing and running
 
